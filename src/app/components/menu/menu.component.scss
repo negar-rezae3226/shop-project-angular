@@ -1,0 +1,22 @@
+
+
+$white :#ffffff;
+
+
+$font-size:20px;
+
+nav{
+}
+.navbar-style{
+    padding: 10px;
+}
+.nav-link{
+    color: $white;
+    font-size: $font-size;
+}
+.logo-page{
+    width: 55px;
+    height: 50px;
+    border-radius: 80px;
+    cursor: pointer;
+}

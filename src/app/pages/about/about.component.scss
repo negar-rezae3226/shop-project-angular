@@ -1,0 +1,14 @@
+$light-gray :#e5e5e5;
+$font-size: 18px;
+
+
+.about-style{
+    margin-top: 50px;
+    margin:150px  70px 150px 70px;
+    padding: 100px;
+    border: 1px solid $light-gray;
+    font-size: $font-size;
+    line-height: 35px;
+    word-spacing: 5px;
+    white-space: wrap;
+}
